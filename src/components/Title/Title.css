@@ -1,0 +1,28 @@
+.title {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    margin: 70px 0 30px;
+    color: #212EA0;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.title h2{
+    font-size: 32px;
+    color: #000F38;
+    margin-top: 5px;
+    text-transform: none;
+}
+
+
+/* -------------- media query --------------  */
+
+/* @media (max-width: 500px){
+    .title {
+        width: 131%;
+    }
+} */
