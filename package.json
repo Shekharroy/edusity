@@ -1,8 +1,8 @@
 {
-  "homepage": "http://Shekharroy.github.io/edusity",
   "name": "edusity",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Shekharroy.github.io/edusity/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
